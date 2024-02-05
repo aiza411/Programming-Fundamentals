@@ -44,8 +44,5 @@ int main()
         cout<<"\n\n\t\tSUBTARCTION OF "<<num1<<" AND "<<num2<<" IS "<<num3;
     }
 
-    
-    
-
     return 0;
 }
